@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Manga+Press TwentyTwelve\n"
+"POT-Creation-Date: 2015-10-04 14:26-0500\n"
+"PO-Revision-Date: 2015-10-04 14:27-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_attr_n\n"
+"Last-Translator: Jess Green <jgreen@psy-dreamer.com>\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+
+#: comics/comic-archive.php:28 comics/latest-comic.php:34
+msgid "Edit"
+msgstr "Editar"
+
+#: comics/error-comic.php:17
+msgid "No comic found."
+msgstr "No se encontr&oacute; c&oacute;mico."
+
+#: comics/latest-comic.php:31
+msgid "Pages:"
+msgstr "P&aacute;ginas:"
+
+#: comics/single-comic.php:22
+msgid "Post navigation"
+msgstr "Publica navegaci&oacute;n"
+
+#: comics/single-comic.php:23
+msgid "&larr;"
+msgstr "&larr;"
+
+#: comics/single-comic.php:24
+msgid "&rarr;"
+msgstr "&rarr;"
