@@ -14,6 +14,6 @@
     </header>
 
     <div class="entry-content">
-        <p>No comic found.</p>
+        <p><?php _e('No comic found.', 'mp-twentytwelve'); ?></p>
     </div><!-- .entry-content -->
 </article><!-- #post -->

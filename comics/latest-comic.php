@@ -28,10 +28,10 @@ get_header();
                         <?php the_post_thumbnail(get_the_ID()); ?>
                         </p>
                         <?php the_content(); ?>
-                        <?php wp_link_pages(array('before' => '<div class="page-links">' . __('Pages:', 'twentytwelve'), 'after' => '</div>')); ?>
+                        <?php wp_link_pages(array('before' => '<div class="page-links">' . __('Pages:', 'mp-twentytwelve'), 'after' => '</div>')); ?>
                     </div><!-- .entry-content -->
                     <footer class="entry-meta">
-                    <?php edit_post_link(__('Edit', 'twentytwelve'), '<span class="edit-link">', '</span>'); ?>
+                    <?php edit_post_link(__('Edit', 'mp-twentytwelve'), '<span class="edit-link">', '</span>'); ?>
                     </footer><!-- .entry-meta -->
                 </article><!-- #post -->
 
